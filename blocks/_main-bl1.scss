@@ -1,0 +1,31 @@
+.section-modelos{
+    padding-top: 50px;
+
+    
+    ul{
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 30%;
+        padding-right: 40%;
+       
+    }
+    p{
+        
+        font-size: 30px;
+        color:silver;
+        margin-left: 27%;
+        border-bottom:solid 3px rgb(240, 237, 237);
+        padding-bottom: 10px;
+        width: 3%;
+    }
+    li{
+        color:silver;
+        margin-left: 2%;
+        margin-bottom: 10%;
+        font-size: 20px;
+        list-style-type: none;
+        margin-right: 10px;   
+    }
+    
+}
+

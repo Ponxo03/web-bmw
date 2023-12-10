@@ -1,0 +1,77 @@
+.section-video{
+    display: flex;
+    gap: 21px;
+    margin-right: 100px;
+    margin-top: 70px;
+    justify-content: center;
+}
+.configurador{
+    display: flex;
+    padding-top: 7%;
+    gap: 16px;
+    justify-content: center;
+    
+
+    img{
+    color:silver;
+    width: 15%;
+    margin-left: 38%;
+    margin-top: 10%;
+    }
+
+    .config1{
+        background-color:#F2F2F2;
+        height: 150px;
+        width: 250px;
+        color:silver;
+        p{
+            text-align: center;
+            margin-right:25px;
+        }
+
+    }
+
+    .config2{
+        background-color:#F2F2F2;
+        height: 150px;
+        width: 250px;
+        color:silver;
+
+        p{
+            text-align: center;
+            margin-right:25px;
+        }
+        
+    }
+    .config3{
+        background-color:#F2F2F2;
+        height: 150px;
+        width: 250px;
+        color:silver;
+
+        p{
+            text-align: center;
+            margin-right:25px;
+        }
+
+        img{
+            color:silver;
+            width: 11%;
+        }
+        
+    }
+    .config4{
+        background-color:#F2F2F2;
+        height: 150px;
+        width: 250px;
+        color:silver;
+
+        p{
+            text-align: center;
+            margin-right:25px;
+        }
+        
+    }
+    
+
+}
